@@ -1,3 +1,3 @@
 
 def calculateStats(numbers):
-  return None
+  return float_value
